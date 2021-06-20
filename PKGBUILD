@@ -6,7 +6,7 @@ arch=('any')
 provides=('susfetch')
 conflicts=('susfetch')
 license=('GPL3')
-source=("https://github.com/zielony12/susfetch.git")
+source=("${pkgname}"::git+https://github.com/zielony12/susfetch.git)
 sha256sums=("SKIP")
 
 package() {
