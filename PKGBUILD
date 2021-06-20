@@ -1,5 +1,5 @@
 pkgname=susfetch
-pkgver=1
+pkgver=0.1.0
 pkgrel=1
 pkgdesc="Makes your pc more sus"
 arch=('any')
