@@ -10,5 +10,8 @@ Else:
 
 ``git clone https://github.com/zielony12/susfetch.git && ./susfetch/install.sh``
 
+# Sussy baka 
+your pc is sus now xd shit
+
 # Podjebane prosto od workonfire
 <a href="https://github.com/workonfire/wziumfecz">wziumfecz</a>
