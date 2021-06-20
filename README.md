@@ -24,4 +24,5 @@ your pc is sus now xd shit
 
 # Podjebane prosto od workonfire
 ale tak serio to sie tylko inspirowałem
+
 <a href="https://github.com/workonfire/wziumfecz">wziumfecz</a>
