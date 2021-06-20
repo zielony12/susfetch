@@ -1,5 +1,7 @@
 # susfetch
 Another script that shows you info about your operating system and hardware.
+![image](https://user-images.githubusercontent.com/68541652/122676118-c9961a80-d1dc-11eb-8ed3-d3734b9a0161.png)
+
 
 # How do i install it?
 If you use arch btw:
