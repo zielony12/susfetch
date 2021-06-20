@@ -1,3 +1,5 @@
+# Maintainer: Karol Purgal <xdzielony at gmail dot com>
+# Contributor: Karol Purgal <xdzielony at gmail dot com>
 pkgname=susfetch
 pkgver=0.1.0
 pkgrel=1
