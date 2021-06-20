@@ -1,0 +1,10 @@
+#!/bin/sh
+echo ""
+echo -e "\033[1;31m    ___    \033[1;32m${USER}@${HOSTNAME}"
+echo -e "\033[1;31m  / \033[1;36m___\033[1;31m \\  \033[1;32mOS:\033[1;0m $(uname -o)"
+echo -e "\033[1;31m | \033[1;36m|___|\033[1;31m | \033[1;32mKernel:\033[1;0m $(uname -sr)"
+echo -e "\033[1;31m |       | \033[1;32mShell:\033[1;0m $(basename $SHELL)"
+echo -e "\033[1;31m |  ___  | \033[1;32mUptime:\033[1;0m $(uptime -p | sed 's/up //I')"
+echo -e "\033[1;31m | |   | | \033[1;32mProcessor:\033[1;0m $(sed -n "5p" /proc/cpuinfo | sed 's/model name	: //I')"
+echo -e "\033[1;31m |_|   |_| \033[1;32mArchitecture:\033[1;0m $(uname -m)\033[1;0m"
+echo ""
