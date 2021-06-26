@@ -1,7 +1,7 @@
 # Maintainer: Karol Purgal <xdzielony at gmail dot com>
 # Contributor: Karol Purgal <xdzielony at gmail dot com>
 pkgname=susfetch
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
 pkgdesc="Makes your pc sussy baka"
 arch=('any')
