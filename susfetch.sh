@@ -14,6 +14,6 @@ echo -e "\033[1;31m  / \033[1;36m___\033[1;31m \\  \033[1;32mOS:\033[1;0m ${sus_
 echo -e "\033[1;31m | \033[1;36m|___|\033[1;31m | \033[1;32mKernel:\033[1;0m ${sus_kernel}"
 echo -e "\033[1;31m |       | \033[1;32mShell:\033[1;0m ${sus_shell}"
 echo -e "\033[1;31m |  ___  | \033[1;32mUptime:\033[1;0m ${sus_uptime}"
-echo -e "\033[1;31m | |   | | \033[1;32mProcessor:\033[1;0m ${sus_cpu}')"
+echo -e "\033[1;31m | |   | | \033[1;32mProcessor:\033[1;0m ${sus_cpu}"
 echo -e "\033[1;31m |_|   |_| \033[1;32mArchitecture:\033[1;0m ${sus_arch}\033[1;0m"
 echo ""
